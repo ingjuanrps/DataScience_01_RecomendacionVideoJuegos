@@ -1,0 +1,10 @@
+__pycache__
+jrpsPI1-env
+.vscode
+ETL\merge\01Merge.ipynb
+fusion\__pycache__
+fusion\__init__.py
+route\__pycache__
+/venv
+venv
+venv/
